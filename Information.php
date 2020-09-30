@@ -17,4 +17,9 @@
  *
  *       git rm --cached [file-name]
  *          UnStage the file from being saved(commit).
+ *
+ *       git commit -m "message"
+ *          Create a save point with the stage files and message describing what happened.
+ *          Message is not unique but says what it is going on inside this commit.
+ * 
  */
