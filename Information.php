@@ -43,4 +43,10 @@
  *      git remote add [name] [value]
  *          Add a git server location to store our repository.
  *          e.g: git remote add origin https://github.com/User/Repo.git
+ *
+ *      git push -u [remote-name] [branch-name]
+ *          Push commits to the remote server
+ *              e.g.: git push -u origin master
+ *          After push we can omit -u origin master because it is saved.
+ *              e.g.: git push
  */
