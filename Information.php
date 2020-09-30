@@ -11,7 +11,7 @@
  *      git status
  *          Tells about the current on goings of our repository
  *          file changed, added,....
- *          Some changes from computer 1 to test.
+ *          Computer 1 changes
  *
  *       git add [file-name]
  *          Stages the file to be saved(commit).
