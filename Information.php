@@ -39,4 +39,8 @@
  *      git branch -v
  *          List all branches
  *          * represents current branch
+ *
+ *      git remote add [name] [value]
+ *          Add a git server location to store our repository.
+ *          e.g: git remote add origin https://github.com/User/Repo.git
  */
