@@ -21,5 +21,8 @@
  *       git commit -m "message"
  *          Create a save point with the stage files and message describing what happened.
  *          Message is not unique but says what it is going on inside this commit.
- * 
+ *
+ *       git log
+ *          History and information about all commits.
+ *
  */
