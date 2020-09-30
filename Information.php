@@ -40,6 +40,7 @@
  *      git branch -v
  *          List all branches
  *          * represents current branch
+ *          some changes from computer 2 to test.
  *
  *      git remote add [name] [value]
  *          Add a git server location to store our repository.
