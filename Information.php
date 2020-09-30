@@ -14,6 +14,9 @@
  *
  *       git add [file-name]
  *          Stages the file to be saved(commit).
+ *          * can be used as a wildcard.
+ *              e.g.: *.php would grab all php files
+ *                    * would grab all files
  *
  *       git rm --cached [file-name]
  *          UnStage the file from being saved(commit).
